@@ -1,3 +1,155 @@
+
+# Reclaiming Sovereignty in the No-Code Era: An Introduction to Democratic Structural Sovereignty
+
+## Preface ①: Why Question "Structure"?
+
+**Structure is the invisible sovereign.**
+
+When people talk about democracy, they often focus on *who* holds power.  
+But the deeper and more enduring question is *how* decisions are made —  
+in other words, the **structure** itself.
+
+This project proposes a new field: **Democratic Structural Sovereignty**.  
+At its core is the belief that **those who design structures hold real sovereignty in the modern era**.
+
+Systems, code, databases, APIs, and AI —  
+all share a common question:  
+**Who is allowed to decide what, and by what structure?**
+
+This academic framework is essential today because a single individual's code can now change the world.  
+And this shift in power has already reshaped global structures.
+
+Take **Linux** or **Bitcoin**, for instance.  
+Both started with individuals. Yet their structural impact has been global and political.
+
+- **Linux** disrupted the U.S.-led monopoly over operating systems.  
+  It undermined the geopolitical strategy of software-based control over information infrastructure.
+- **Bitcoin** challenged centralized monetary sovereignty,  
+  raising fundamental questions about who has the right to issue and manage currencies.  
+  Some even see it as a movement toward the democratization of money itself.
+
+Crucially, neither of these was the result of *elections*.  
+They emerged through *structure*, not procedure.
+
+---
+
+## Preface ②: The Internal Geopolitics of Code
+
+This discipline is often compared to **geopolitics**.
+
+- Geopolitics reads **nation-state strategy** from geography, resources, and military distribution.
+- Democratic Structural Sovereignty reads **organizational logic** from data models, institutional rules, and invisible flows of decision-making.
+
+> If geopolitics is about *macro* power between nations,  
+> this field is about *micro* power within systems.
+
+This approach is applicable to companies, municipalities, NGOs, and educational institutions —  
+anywhere that structured decision-making takes place.
+
+---
+
+## Preface ③: Sovereignty Is the Power to Rewrite
+
+The age when sovereignty belonged to the *elected* is over.  
+Now, **sovereignty belongs to those who can rewrite the system**.
+
+Those who can revise:
+- Legal documents,  
+- Institutional algorithms,  
+- Application code —  
+
+— these are the true actors in shaping the future.
+
+This book aims to reconnect technical implementation  
+(frameworks / generative AI / databases)  
+with structural insight.
+
+May it help you reclaim your own **sovereignty through structural understanding**.
+
+---
+
+## 🧭 Chapter 0: What Is Structure, and Why Must We Read It?
+
+- We live in an age where technology *embeds* institutions.  
+- Structural blindness leads to democratic erosion.  
+- Sovereignty means the power to *read*, *choose*, and *rebuild*.  
+- A kitchen knife requires responsible use — but no-code tools lack even visible ownership of design.  
+- History teaches us: tools made in good faith can be abused with ease.  
+
+---
+
+## Chapter 1: How No-Code Threatens Democratic Control in Public Systems
+
+- No-code tools hide the reasoning behind decisions.  
+- Government systems without visible designers lead to unaccountable actions.  
+- When no one knows *whose intention* is being executed, democracy fails.  
+
+---
+
+## Chapter 2: Procedures Remain, Substance Disappears
+
+- Formal procurement without open design.  
+- Electoral systems as hollow rituals.  
+- Not "institutional fatigue," but **institutional hollowing-out**.  
+
+---
+
+## Chapter 3: Sovereignty Is the Ability to Redesign
+
+- Sovereignty = Structural Rewriteability  
+- Laws vs. Structures, Policies vs. Implementation  
+- Do citizens have access to design and change?  
+
+---
+
+## Chapter 4: Who Designs? Who Is Responsible?
+
+- Operator ≠ Designer ≠ Accountable Party  
+- The limits of no-code governance  
+- When even governments don’t know who designed the system  
+
+---
+
+## Chapter 5: Structural Literacy as Local Empowerment
+
+- Global technology meets domestic governance gaps  
+- Municipalities and citizens confronting unreadable systems  
+- Literacy gaps determine reuse and redesign capabilities  
+
+---
+
+## Chapter 6: Publishing and Visualizing Structures
+
+- Source code readability enables inheritance  
+- Git-based history and structural transparency  
+- Visualization = making things legible to all stakeholders  
+
+---
+
+## Chapter 7: Designing Democratic Structural Review Processes
+
+- Formalizing questions, responses, and public archives  
+- Feedback maps and participatory experiments  
+- Democratically structured policymaking  
+- Recording and reviewing *unwritten* administrative authority  
+- Exposing the structural collapse of elections and bidding systems  
+
+---
+
+## 🧑‍🏫 Final Chapter: Preventing No-Code Education from Becoming Digital Serfdom
+
+- No-code is a valuable *entry point*  
+- But no-code without an *exit path* becomes confinement  
+- The real task is to build a **ladder from no-code to code**  
+- Sovereignty means the freedom to choose your structure  
+- Learning to code is training in democratic literacy  
+- The state must invest in *citizens who can read and design structure*  
+- Design a system that shows the “next step” beyond no-code.  
+  **Education is the act of raising citizens who can redesign.**
+
+---
+
+📄 [Declaration of the Democratic Structural Sovereignty Association (DSSA)](./ASSOCIATION.md)
 # ノーコード時代に主権を取り戻す：民主主権構造学入門
 
 ## 序文①　：　なぜ「構造」を問うのか？
