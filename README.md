@@ -150,6 +150,10 @@ May it help you reclaim your own **sovereignty through structural understanding*
 ---
 
 📄 [Declaration of the Democratic Structural Sovereignty Association (DSSA)](./ASSOCIATION.md)
+
+
+
+
 # ノーコード時代に主権を取り戻す：民主主権構造学入門
 
 ## 序文①　：　なぜ「構造」を問うのか？
